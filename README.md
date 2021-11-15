@@ -1,4 +1,6 @@
-### Hi there 👋
+<h1 align="center">
+  <img src="assets/Banner - Github.gif" alt="Marton Lederer" />
+</h1>
 
 <!--
 **anver-dev/anver-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
