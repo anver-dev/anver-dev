@@ -25,7 +25,7 @@ I'm a human, fullstack developer, student,  and a osu! player from México.
 ![AZURE](https://img.shields.io/badge/-Azure-000?style=for-the-badge&logo=AzureCloud&color=167a5d)
 
 ## &#x1f4c8; GitHub Stats
-<img height="250em" src="https://github-readme-stats.vercel.app/api?username=anver-dev&theme=vue-dark&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /><!-- wi*quL3fcV --><img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anver-dev&theme=vue-dark&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="190em" src="https://github-readme-stats.vercel.app/api?username=anver-dev&theme=vue-dark&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /><!-- wi*quL3fcV --><img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anver-dev&theme=vue-dark&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 
 
