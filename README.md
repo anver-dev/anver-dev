@@ -11,10 +11,16 @@ I'm a human, fullstack developer, student,  and a osu! player from México.
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anverdev)
 
 ## &#x1f4c8; GitHub Stats
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anver-dev&theme=vue-dark&langs_count=3" />
-</a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anver-dev&theme=vue-dark&langs_count=3" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anver-dev&theme=vue-dark&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
+### Languages
+
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396?style=for-the-badge&logo=appveyor)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python?style=for-the-badge&logo=appveyor)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript?style=for-the-badge&logo=appveyor)
+![C](https://img.shields.io/badge/-C-000?&logo=C?style=for-the-badge&logo=appveyor)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL?style=for-the-badge&logo=appveyor)
 
 
 
