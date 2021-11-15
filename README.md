@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="assets/Banner - Github.gif" alt="Marton Lederer" />
+  <img src="assets/banner-git.gif" alt="Marton Lederer" />
 </h1>
 
 <!--
