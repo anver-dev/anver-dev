@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="assets/banner-git.gif" alt="Marton Lederer" />
+  <img src="assets/banner-git.gif" alt="Anver Lederer" />
 </h1>
 
 ## Hey there! <img src="https://bestanimations.com/media/cats/1056407217cute-kitty-animated-gif-59.gif" width="25px">
