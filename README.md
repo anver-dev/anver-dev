@@ -5,7 +5,7 @@
 
 # Hey there! 💥
 
-I'm a human, fullstack developer, student,  and a osu! player from México.
+I'm a software engineer at [Globalhitss](https://globalhitss.com), student of [Universidad Autonoma Metropolitana](https://www.uam.mx/unidad_iztapalapa.html), and a osu! player from México.
 
 ### Contact me 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=__anver)
